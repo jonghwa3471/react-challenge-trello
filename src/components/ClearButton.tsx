@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEraser } from "@fortawesome/free-solid-svg-icons";
 
 const Button = styled.div`
+  z-index: 1;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -5,6 +5,7 @@ import { useSetRecoilState } from "recoil";
 import { boardModalState } from "../atoms";
 
 const Button = styled.div`
+  z-index: 1;
   display: flex;
   justify-content: center;
   align-items: center;

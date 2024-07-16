@@ -20,7 +20,7 @@ const Wrapper = styled.div`
   gap: 40px;
   border-radius: 5px;
   box-shadow: 1px 5px 30px rgba(0, 0, 0, 0.5);
-  z-index: 1;
+  z-index: 2;
 `;
 
 const EditToDoTitle = styled.h2`
