@@ -4,7 +4,7 @@
     <br /><br />
     <a display="block" href="https://jonghwa3471.github.io/react-challenge-trello/">https://jonghwa3471.github.io/react-challenge-trello/</a>
     <br /><br />
-    <img height="500" src="./previews/preview1.gif" />
+    <img height="400" src="./previews/preview1.gif" />
   </a>
 </div>
 
@@ -46,20 +46,20 @@
 - 새로운 할 일을 추가하고, 수정할 수 있습니다.
 - React Hook Form을 이용해 form의 유효성을 검사합니다.
   <br /><br />
-  <img height="500" src="./previews/preview3.gif" />
+  <img height="400" src="./previews/preview3.gif" />
 
 > 3. 할 일 드래그 앤 드롭, 할 일 삭제
 
 - React Beautiful DnD를 이용해 드래그-앤-드롭을 구현하였습니다.
 - 드래그-앤-드롭을 이용해 작성한 할 일을 삭제할 수 있습니다.
   <br /><br />
-  <img height="500" src="./previews/preview4.gif" />
+  <img height="400" src="./previews/preview4.gif" />
 
 > 4. 보드 및 할 일 초기화
 
 - 보드와 할 일 데이터가 들어있는 atom들과 localStorage를 비워서 초기화합니다.
   <br /><br />
-  <img height="500" src="./previews/preview5.gif" />
+  <img height="400" src="./previews/preview5.gif" />
 
 ## Pages
 
