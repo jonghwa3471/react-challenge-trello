@@ -4,7 +4,7 @@
     <br /><br />
     <a target="_blank" display="block" href="https://jonghwa3471.github.io/react-challenge-trello/">https://jonghwa3471.github.io/react-challenge-trello/</a>
     <br /><br />
-    <img height="700" src="./previews/preview1.gif" />
+    <img height="500" src="./previews/preview1.gif" />
   </a>
 </div>
 
