@@ -38,7 +38,7 @@
 - 새로운 보드를 추가하고, 수정 및 삭제할 수 있습니다.
 - 보드 내에서 작성한 할 일을 드래그-앤-드롭을 통해 다른 보드로 이동시킬 수 있습니다.
   <br /><br />
-  <img height="500" src="./previews/preview2.gif" />
+  <img height="400" src="./previews/preview2.gif" />
 
 > 2. 할 일 추가 및 수정
 
