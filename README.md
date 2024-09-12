@@ -1,8 +1,8 @@
 <div align="center">
-  <a target="_blank" href="https://jonghwa3471.github.io/react-challenge-trello/">
+  <a href="https://jonghwa3471.github.io/react-challenge-trello/" target="_blank">
     <img height="80" src="./previews/trello_logo.png" />
     <br /><br />
-    <a target="_blank" display="block" href="https://jonghwa3471.github.io/react-challenge-trello/">https://jonghwa3471.github.io/react-challenge-trello/</a>
+    <a display="block" href="https://jonghwa3471.github.io/react-challenge-trello/" target="_blank">https://jonghwa3471.github.io/react-challenge-trello/</a>
     <br /><br />
     <img height="500" src="./previews/preview1.gif" />
   </a>
