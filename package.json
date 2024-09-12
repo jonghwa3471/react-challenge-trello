@@ -65,5 +65,5 @@
     "@types/react-beautiful-dnd": "^13.1.8",
     "@types/react-router-dom": "^5.3.3"
   },
-  "homepage": "https://jonghwa3471.github.io/react-trello"
+  "homepage": "https://jonghwa3471.github.io/react-challenge-trello"
 }
